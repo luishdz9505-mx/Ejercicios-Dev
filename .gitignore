@@ -57,4 +57,4 @@ dkms.conf
 .vs/
 
 # Documentos
-".pdf
+*.pdf
