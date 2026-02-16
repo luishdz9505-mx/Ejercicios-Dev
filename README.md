@@ -1,2 +1,9 @@
 # Ejercicios Dev
-Estoy aprendiendo git y github, y para practicar he creado este repositorio con algunos ejercicios de programación.
+Estoy aprendiendo git y github, y para practicar he creado este repositorio con algunos ejercicios de programaciÃ³n.
+
+## revisando readme
+1. elemento 1
+2. elemento 2
+
+* elemento 1
+* elemento 2
